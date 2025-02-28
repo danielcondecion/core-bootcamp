@@ -1,12 +1,12 @@
 {
-    "name": "SELYO PX01",
-    "description": "SELYO EXCLUSIVE BADGE",
-    "symbol": "SE",
-    "image": "https://i.imgur.com/hKDPiTu.jpeg",
+    "name": "Ahmads Turon",
+    "description": "SUPER DUPER RARE TURON",
+    "symbol": "RON",
+    "image": "https://i.imgur.com/QbS6Raz.png",
     "attributes": [
         {
             "trait_type": "event",
-            "value": "SELYO EXCLUSIVE BADGE"
+            "value": "SUPER DUPER RARE TURON"
         },
         {
             "trait_type": "year",
